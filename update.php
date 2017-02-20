@@ -24,3 +24,4 @@
 		fclose($fp);
 	}
 ?>
+<a href="/qqwry.dat">下载</a>
